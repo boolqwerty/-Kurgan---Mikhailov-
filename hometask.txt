@@ -1,0 +1,9 @@
+В origin/demo есть коммиты, которых нет в master:
+1) merge branch 'buttons' into demo
+2) merge branch 'boots' into release
+
+В master есть коммиты, которых нет в origin/demo:
+1) merge remote-tracking branch 'origin/hat'
+2) merge remote-tracking branch 'origin/buttons' into boots_buttons
+3) merge remote-tracking branch 'origin/boots' into boots_buttons
+4) fix readme
