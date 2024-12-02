@@ -7,3 +7,13 @@
 2) merge remote-tracking branch 'origin/buttons' into boots_buttons
 3) merge remote-tracking branch 'origin/boots' into boots_buttons
 4) fix readme
+
+комментарии из коммитов:
+коммит: различия между origin/demo и master
+комментарий: слава преданный 7 минут назад
+коммит: Объединить ветку удаленного отслеживания 'origin / hat'
+комментарий: слава преданный вчера
+коммит: Объедините ветку удаленного отслеживания «origin/boots» с веткой «boots_buttons»
+комментарий: слава преданный вчера
+коммит: Объедините ветку удаленного отслеживания «origin/boots» с веткой «boots_buttons»
+комментарий: слава преданный вчера
